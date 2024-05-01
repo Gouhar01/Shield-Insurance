@@ -1,7 +1,7 @@
 # Shield-Insurance 
 * Shield Insurance is a fictitious insurance company that aims to safeguard indivuduals assets and offer comprehensive coverage.
 * The primary object for shield Insurance is to gain a clear unerstanding of our customer count and the overall revenue they contribute.
-
+  ## Video Presentation Link Click Here.
 
 ## Tools Used
 * Ms Excel 
@@ -18,7 +18,9 @@
   - Age Groups (25-30, 31-40, 41-50, 51-60, 61-65, 65+)
 
 ## Objective
-* 
+* Shield Insurance is a fictitious insurance company that aims ti sageguard induvisuals asseets and offer comprehensive coverage.
+* As a junior data analyst, my responsbility involves providing valuable information to the company about their earning and clients.
+   
 
 
 ## Data Model
@@ -59,7 +61,8 @@
 
 * The policy ID “POL4321HEL” has a customer base of 4,434. This indicates a significant number of customers who have chosen this particular policy for their insurance needs
 
-* The policy ID “POL2005HEL” has generated a substantial revenue of 324.3 million
+* The policy ID “POL2005HEL” has generated a substantial revenue of 324.3 million.
 
+## Video Presentation Link Click Here
 
 
