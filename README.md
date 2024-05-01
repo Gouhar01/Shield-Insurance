@@ -2,6 +2,7 @@
 * Shield Insurance is a fictitious insurance company that aims to safeguard indivuduals assets and offer comprehensive coverage.
 * The primary object for shield Insurance is to gain a clear unerstanding of our customer count and the overall revenue they contribute.
   ## Video Presentation Link Click Here.
+  ## Live Dashboard Link Here.
 
 ## Tools Used
 * Ms Excel 
@@ -63,6 +64,7 @@
 
 * The policy ID “POL2005HEL” has generated a substantial revenue of 324.3 million.
 
-## Video Presentation Link Click Here
+## Video Presentation Link Click Here.
+## Live Dashboard Link Here.
 
 
