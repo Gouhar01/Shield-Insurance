@@ -30,17 +30,19 @@
 
 ## Home page 
 
-![home page](https://github.com/Gouhar01/Shield-Insurance/assets/141431067/6b23a064-d817-4328-9563-6043fc131f16)
+![Untitled design (1)](https://github.com/Gouhar01/Shield-Insurance/assets/141431067/191f35e6-8006-4db3-a1c2-8bd445d59244)
 
+## General View
+![Untitled design (2)](https://github.com/Gouhar01/Shield-Insurance/assets/141431067/5a09ef75-88a8-413d-8e07-55391c2f123d)
 
-## General View 
-![General view](https://github.com/Gouhar01/Shield-Insurance/assets/141431067/aa35f194-600c-4f14-967f-f6b9fdf305dc)
 
 ## Sales Mode View
-![sales mood view](https://github.com/Gouhar01/Shield-Insurance/assets/141431067/164e01b9-d10a-4aa7-8533-98ae27657752)
+![Untitled design (3)](https://github.com/Gouhar01/Shield-Insurance/assets/141431067/fc2f7c5d-14d5-4efa-a407-e00407398ccf)
+
 
 ## Age-Group Analsis
-![age group](https://github.com/Gouhar01/Shield-Insurance/assets/141431067/0b0487e8-6c29-414b-87e3-561510d65aab)
+![Untitled design (4)](https://github.com/Gouhar01/Shield-Insurance/assets/141431067/631ae0e7-e42d-45b0-9436-f6e54ee41ee3)
+
 
 ## Page Navigation Pop Up
 ![Page navigation pop up](https://github.com/Gouhar01/Shield-Insurance/assets/141431067/70f81110-5beb-4597-b505-71f2bac1a1e6)
