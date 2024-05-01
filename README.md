@@ -65,6 +65,6 @@
 * The policy ID “POL2005HEL” has generated a substantial revenue of 324.3 million.
 
 ## Video Presentation Link Click Here.
-## Live Dashboard Link Here.
+## Live Dashboard Link [Click Here](https://app.powerbi.com/groups/me/reports/6fb6842e-8e1d-45c7-84b9-45207aff19ab/ReportSection51c9be0bed8b37cddcc4?experience=power-bi&bookmarkGuid=Bookmarkf0ef9ce4b24f441762c6).
 
 
